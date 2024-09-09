@@ -9,6 +9,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 |----------|---------|-------------|---------|-------|
 | Accelerators | [Y Combinator](https://ycombinator.com) | Technology startup accelerator and venture capital firm. | [💻](https://www.ycombinator.com/careers) | [2024/08](https://www.ycombinator.com/careers?ashby_jid=bbf8f36d-60bf-4168-b2b8-fac91bc4534c) |
 | Accounting / FinTech | [Wrapbook](https://wrapbook.com/) | Accounting software suite for the Film, TV, and Commercial Production industry. | [💻](https://jobs.ashbyhq.com/wrapbook) | [2024/09](https://jobs.ashbyhq.com/wrapbook/4a27bab9-f10c-4250-96a0-835fa1f1541d) |
+| | [Niva](https://niva.co/) | Using AI to automate global business onboarding. | [💻](https://niva-ai.notion.site/Niva-is-hiring-52d3fd98c03f432c96790337c7d5d741) | [2024/09](https://stackshare.io/niva/niva) |
 | Agencies | [Eagerworks](https://eagerworks.com/) | Development, design and AI needs. | [💻](https://eagerworks.com/careers#open-positions) | [2024/08](https://eagerworks.com/careers/sr-ror-developer) |
 | | [thoughtbot](https://thoughtbot.com/) | Strategy, design, product management, and development. | [💻](https://thoughtbot.com/jobs#jobs) | [2024/08](https://thoughtbot.com/blog/this-week-in-open-source-june-2024) |
 | | [Puzzle ITC](https://www.puzzle.ch/) | Swiss agency | [💻](https://www.puzzle.ch/stellen) | [2024/08](https://puzzle.github.io/) |
@@ -56,7 +57,6 @@ A list of awesome companies currently using Ruby as one of their main backend la
 | | [Pharmaseal](https://www.pharmaseal.co/) | Helping companies reduce risk through smarter management of clinical trials. | | |
 | | [SARD JV](https://www.sardjv.co.uk/) | NHS workforce optimisation. | [💻](https://sardjv.co.uk/About/Careers/) | |
 | | [wawa fertility](https://www.wawafertility.com/) | Operating System to run and grow your fertility clinic. | [💻](https://www.wawafertility.com/posts/hiring-rails-developer) | [2024/09](https://app.otta.com/jobs/KC9SGO71) |
-| Home Services | [Parafuzo](https://parafuzo.com/) | Intermediation of cleaning and furniture assembly services | [💻](https://www.linkedin.com/company/parafuzo-com/mycompany/) | |
 | HR | [Gusto](https://gusto.com/) | Hire, pay, and manage your team all in one place. | [💻](https://gusto.com/about/careers) | |
 | | [Factorial](https://factorialhr.com/) | HR Software to Empower Your Team | [💻](https://careers.factorialhr.com/) | | 
 | | [TalentoHQ](https://talentohq.com/) | Talent management and human resources software. | | |
